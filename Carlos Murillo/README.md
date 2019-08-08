@@ -65,3 +65,5 @@ void KruskalMST(Graph* graph)
 	10. Dormir
 
 
+Para cualquier duda que tenga por favor ingrese  [aqui](https://www.google.com)
+
