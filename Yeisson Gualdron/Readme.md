@@ -1,8 +1,17 @@
+# DATOS RELEVANTES
+
 **YEISSON FABIAN GUALDRON VIVAS**
 
-Plan de estudios 14
+_Plan de estudios 14_
 
 Semestre 7
+
+## Materias:
+	- CVDS
+	- ACSO
+	- RECO
+	- FUEC
+	- ESCU
 
 
 
