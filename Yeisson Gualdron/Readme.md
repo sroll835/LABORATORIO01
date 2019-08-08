@@ -27,7 +27,7 @@
 	4. Debian
 	5. Linux Mint
 	
-[referencias](https://maslinux.es/las-5-distros-gnu-linux-mas-populares/)
+[referencia](https://maslinux.es/las-5-distros-gnu-linux-mas-populares/)
 
 ## Algoritmo de flujo
 
@@ -159,5 +159,6 @@
 	  
 		return 0; 
 	} 
+[referencia](https://www.geeksforgeeks.org/minimum-cut-in-a-directed-graph/)
 
 	
