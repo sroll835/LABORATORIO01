@@ -27,5 +27,5 @@
 	4. Debian
 	5. Linux Mint
 	
-	[referencias](https://maslinux.es/las-5-distros-gnu-linux-mas-populares/)
+[referencias](https://maslinux.es/las-5-distros-gnu-linux-mas-populares/)
 	
