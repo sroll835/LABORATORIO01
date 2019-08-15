@@ -165,6 +165,7 @@
 
 ## Parte 3  
 
-![](parte1.png)  
-
-![](parte2.png)  
+### Main
+<img src = parte1.png  ></>
+### Remote
+<img src = parte2.png></>
