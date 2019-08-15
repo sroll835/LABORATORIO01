@@ -16,8 +16,12 @@
 
 * Ajiaco
 
-![](https://www.google.com.co/url?sa=i&source=images&cd=&ved=2ahUKEwjD7LjAw_PjAhWptlkKHdKwA8AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.thespruceeats.com%2Fcolombian-chicken-and-potato-stew-4120146&psig=AOvVaw24qCpxXVZWMPEb6JUaNq92&ust=1565362400567104)
+![](https://www.thespruceeats.com/thmb/s0-mAKGZrl8WabGSYDsYDm4JRKM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ajiaco-colombian-chicken-potato-soup-171573702-5893ce2d5f9b5874ee3053ea.jpg)
 
 * Pizza
 
-![](https://www.google.com.co/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiS26Xdw_PjAhWBv1kKHeumBeQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.thekitchn.com%2Feasy-everyday-pizza-dough-that-is-gluten-free-255421&psig=AOvVaw2fkUcmUmA1GjQ17rov-35A&ust=1565362458782666)
+![](https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg#/media/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg)
+
+## Taller Git: 
+<img src = "cvds.png" />
+<img src = "cvds2.png" />
