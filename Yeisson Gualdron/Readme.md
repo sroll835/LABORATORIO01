@@ -162,3 +162,9 @@
 [referencia](https://www.geeksforgeeks.org/minimum-cut-in-a-directed-graph/)
 
 	
+
+## Parte 3  
+
+![](parte1.png)  
+
+![](parte2.png)  
