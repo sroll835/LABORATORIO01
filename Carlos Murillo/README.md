@@ -67,3 +67,6 @@ void KruskalMST(Graph* graph)
 
 Para cualquier duda que tenga por favor ingrese  [aqui](https://www.google.com)
 
+<img src = "introductoria.png" />
+
+<img src = "remote.png" />
