@@ -165,7 +165,9 @@
 
 ## Parte 3  
 
-### Main
+### Main  
+
 <img src = "parte1.png"  >
+
 ### Remote
 <img src = "parte2.png">
